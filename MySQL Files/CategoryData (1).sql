@@ -32,3 +32,4 @@ select *, vaccinated2_d7/ population_m * 100 as Vaccinaion_rate from cte
 select * from karnataka order by dates;
 
 
+-- comment
